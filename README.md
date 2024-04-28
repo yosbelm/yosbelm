@@ -13,3 +13,10 @@
  </div>
  <br>
  <br>
+
+## Soft Skills
+Quick learner
+Problem-solving
+Effective communication
+Teamwork
+<br>
