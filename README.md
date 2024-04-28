@@ -1,4 +1,4 @@
-## Hi, my name is Yosbel, I am a self-taught programmer with a passion for technology and problem-solving. I have developed my skills through personal projects and online courses, and I am always looking for new challenges to learn and grow.
+## Hi, my name is Yosbel, I am a self-taught programmer with a passion for technology, mathematics and problem-solving. I have developed my skills through personal projects and online courses, and I am always looking for new challenges to learn and grow.
 <br>
 
 ## Skills:
