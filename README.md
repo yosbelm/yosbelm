@@ -16,7 +16,7 @@ In addition to programming, I'm a native Spanish speaker with expertise in trans
  <br>
  <br>
 
-## Soft Skills
+## Soft Skills:
 <ul>
   <li>Quick learner</li>
   <li>Problem-solving</li>
