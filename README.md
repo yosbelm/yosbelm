@@ -15,8 +15,8 @@
  <br>
 
 ## Soft Skills
-<Quick learner/br>
-Problem-solving
+#Quick learner
+#Problem-solving
 Effective communication
 Teamwork
 <br>
