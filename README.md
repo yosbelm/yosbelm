@@ -15,10 +15,12 @@
  <br>
 
 ## Soft Skills
-Quick learner
-Problem-solving
-Effective communication
-Teamwork
+<ul>
+  <li>Quick learner</li>
+  <li>Problem-solving</li>
+  <li>Effective communication</li>
+  <li>Teamwork</li>
+</ul>
 <br>
 
 ## Contact:
