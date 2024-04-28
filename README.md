@@ -15,8 +15,15 @@
  <br>
 
 ## Soft Skills
-#Quick learner
-#Problem-solving
+Quick learner
+Problem-solving
 Effective communication
 Teamwork
+<br>
+
+## Contato Profissional:
+<div> 
+  <a href = "mailto:yosbelm99@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/yosbelm/" target="_blank" align="center"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<br>
 <br>
