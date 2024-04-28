@@ -1,6 +1,6 @@
 ## Hi, my name is Yosbel! I'm a self-taught programmer with a passion for technology, mathematics, and problem-solving. I've honed my programming skills through personal projects and online courses, and I'm always eager for new challenges to fuel my learning and growth.
 
-In addition to programming, I'm a native Spanish speaker with expertise in translating English to Spanish for video games, software, and applications. This blend of technical and linguistic skills allows me to effectively bridge the communication gap in the tech industry. I'm always looking for opportunities to combine my programming skills with my translation expertise!
+In addition to programming, I'm a native Spanish speaker with expertise in translating English to Spanish for video games, software, and applications. I'm always looking for opportunities to combine my programming skills with my translation expertise!
 <br>
 
 ## Skills:
