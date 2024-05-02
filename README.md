@@ -1,5 +1,5 @@
 <p >
-  <img width="100%" height= "25%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Welcome%20to%20my%20profile&textBg=false&descSize=0" alt="Welcome to my profile" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Welcome%20to%20my%20profile&textBg=false&descSize=0" alt="Welcome to my profile" />
 </p>
 
 ## Hi, my name is Yosbel! I'm a self-taught programmer with a passion for technology, mathematics, and problem-solving. I've honed my programming skills through personal projects and online courses, and I'm always eager for new challenges to fuel my learning and growth.
