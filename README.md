@@ -35,3 +35,7 @@ In addition to programming, I'm a native Spanish speaker with expertise in trans
   <a href="https://www.linkedin.com/in/yosbel-m-8bb338272/" target="_blank" align="center"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <br>
 <br>
+
+<p >
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Good%20Bye&height=80&section=footer&fontSize=20" alt="Good Bye" />
+</p>
