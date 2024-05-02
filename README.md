@@ -37,5 +37,5 @@ In addition to programming, I'm a native Spanish speaker with expertise in trans
 <br>
 
 <p >
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Good%20Bye&height=80&section=footer&fontSize=20" alt="Good Bye" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Good%20bye&descAlign=54&descAlignY=58&section=footer&fontAlign=50&fontAlignY=65" alt="Good Bye" />
 </p>
