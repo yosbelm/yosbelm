@@ -1,6 +1,6 @@
-<--- <p >
+<---<p >
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=75BDE0&text=Hello%20there!&fontColor=f7f5f5&textBg=false" alt="Welcome to my profile" />
-</p> ---/>
+</p>---/>
 
 ### Hi, I'm a self-taught programmer with a passion for technology, mathematics, and problem-solving. I've honed my programming skills through personal projects and online courses, and I'm always eager for new challenges to fuel my learning and growth.
 
