@@ -10,7 +10,7 @@ I enjoy coding, experimenting with new technologies, and learning from experienc
 - 🌱 Always learning and growing in **backend** and **full-stack** development.  
 - 👯 Looking to collaborate on **open-source projects** and contribute to the community.  
 - 💬 Feel free to ask me anything! I'm happy to help and learn something new.  
-- 📫 How to reach me: [your email address]  
+- 📫 How to reach me: Gmail✉️  and LinkedIn🔗
 - ⚡ Fun Fact: I’m obsessed with vintage mechanical keyboards ⌨️—can’t stop collecting them!
 
 
