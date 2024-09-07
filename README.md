@@ -1,6 +1,6 @@
 ## 👨‍💻 Backend/Django Developer
 
-I enjoy coding, experimenting with new technologies, and learning from experienced developers. I’m a fan of mechanical keyboards ⌨️ and love blending vintage charm with modern tech. Passionate about creating scalable and efficient web solutions.
+I enjoy coding, experimenting with new technologies ⚙️, and learning from experienced developers. I’m a fan of mechanical keyboards ⌨️ and love blending vintage charm with modern tech. Passionate about creating scalable and efficient web solutions.
 
 
 
