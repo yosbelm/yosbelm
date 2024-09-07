@@ -1,11 +1,17 @@
-<p>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=75BDE0&text=Hello%20there!&fontColor=f7f5f5&textBg=false" alt="Welcome to my profile" />
-</p>
+## 👨‍💻 Backend/Django Developer
 
-### Hi, I'm a self-taught programmer with a passion for technology, mathematics, and problem-solving. I've honed my programming skills through personal projects and online courses, and I'm always eager for new challenges to fuel my learning and growth.
+I enjoy coding, experimenting with new technologies, and learning from experienced developers. I’m a fan of mechanical keyboards ⌨️ and love blending vintage charm with modern tech. Passionate about creating scalable and efficient web solutions.
 
-### In addition to programming, I'm a native Spanish speaker with expertise in translating English to Spanish for video games, software, and applications. I'm always looking for opportunities to combine my programming skills with my translation expertise!
-<br>
+
+
+### About Me:
+
+- 🔭 Currently working on building robust backend systems with **Django** and **Python**.  
+- 🌱 Always learning and growing in **backend** and **full-stack** development.  
+- 👯 Looking to collaborate on **open-source projects** and contribute to the community.  
+- 💬 Feel free to ask me anything! I'm happy to help and learn something new.  
+- 📫 How to reach me: [your email address]  
+- ⚡ Fun Fact: I’m obsessed with vintage mechanical keyboards ⌨️—can’t stop collecting them!
 
 
 ## Contact:
@@ -15,6 +21,4 @@
 <br>
 <br>
 
-<p >
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Good%20bye&descAlign=54&descAlignY=58&section=footer&fontAlign=50&fontAlignY=65" alt="Good Bye" />
-</p>
+
