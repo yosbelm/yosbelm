@@ -20,7 +20,8 @@ When I'm not deep in PostgreSQL databases, refactoring code, or managing CI/CD p
 *   🤝 **Driving Technical Excellence** within agile teams through code reviews, cloud deployments (Azure), and system scalability.
 
 ### 🌱 Let's Connect!
-
-*   👯 I’m always open to discussing backend architecture, collaborating on scalable open-source projects, or sharing optimization tips.
-*   💬 Ask me about Django, database scaling, or your favorite tactile mechanical switches!
-*   📫 How to reach me: [Email Me](mailto:your.email@gmail.com) ✉️ | [Connect on LinkedIn](https://linkedin.com/in/yourprofile) 🔗
+<div> 
+  <a href = "mailto:menendeev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/yosbel-m-8bb338272/" target="_blank" align="center"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<br>
+<br>
