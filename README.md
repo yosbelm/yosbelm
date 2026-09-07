@@ -1,22 +1,26 @@
-## 👨‍💻 Backend Developer
+# Hi there! 👋
 
-I enjoy coding, experimenting with new technologies ⚙️, and learning from experienced developers. I’m a fan of mechanical keyboards ⌨️ and love blending vintage charm with modern tech. Passionate about creating scalable and efficient web solutions.
+**Mid-Senior Fullstack Developer | Django Expert | Performance Optimizer 🚀**
 
+I am a Fullstack Developer with 5+ years of experience specializing in **Django**, **Django REST Framework**, and modern frontend ecosystems like **React** and **Vue.js**. I am passionate about architecting scalable web applications, optimizing complex database architectures (making queries run 40% faster is my jam ⚡), and building secure, high-availability backend systems.
 
+When I'm not deep in PostgreSQL databases, refactoring code, or managing CI/CD pipelines, you can probably find me tinkering with my mechanical keyboards ⌨️—I love blending vintage tactile charm with cutting-edge tech!
 
-### About Me:
+### 🛠️ Tech Stack & Arsenal
 
-- 🌱 Always learning and growing in **backend** and **full-stack** development.  
-- 👯 Looking to collaborate on **open-source projects** and contribute to the community.  
-- 💬 Feel free to ask me anything! I'm happy to help and learn something new.  
-- 📫 How to reach me: Gmail✉️  and LinkedIn🔗
+*   **Backend:** Python, Django, DRF, Celery 🐍
+*   **Frontend:** JavaScript, React, Vue.js, Tailwind CSS, Bootstrap 5 ⚛️
+*   **Databases:** PostgreSQL, MySQL, Redis 🗄️
+*   **DevOps & Tools:** Docker, Azure, Git, Linux, CI/CD, Microsoft Teams ⚙️
 
+### ⚡ What I Do
 
-## Contact:
-<div> 
-  <a href = "mailto:yosbelm99@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/yosbel-m-8bb338272/" target="_blank" align="center"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<br>
-<br>
+*   🏗️ **Architecting** robust RESTful APIs and secure payment/authorization systems.
+*   🚀 **Optimizing** database performance (advanced indexing, `select_related`, and query refactoring) to handle peak traffic effortlessly.
+*   🤝 **Driving Technical Excellence** within agile teams through code reviews, cloud deployments (Azure), and system scalability.
 
+### 🌱 Let's Connect!
 
+*   👯 I’m always open to discussing backend architecture, collaborating on scalable open-source projects, or sharing optimization tips.
+*   💬 Ask me about Django, database scaling, or your favorite tactile mechanical switches!
+*   📫 How to reach me: [Email Me](mailto:your.email@gmail.com) ✉️ | [Connect on LinkedIn](https://linkedin.com/in/yourprofile) 🔗
